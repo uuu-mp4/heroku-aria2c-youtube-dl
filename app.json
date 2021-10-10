@@ -1,6 +1,8 @@
 {
   "name": "youtube-dl",
   "description": "download youtube video",
+  "repository": "https://github.com/uuu-mp4/heroku-aria2c-youtube-dl",
+  "keywords": ["youtube", "docker", "video"],
   "stack": "container",
   "env": {
     "RCLONE_CONFIG": {
